@@ -1,12 +1,12 @@
 body{
-	background-color: blue;
-	background-image: url("img/vignette_bottom_small.png"), url("vignette_top_small.png"),url("img/pic2.jpg");
+	background-color: grey;
+	background-image: url("img/vignette_bottom_small.png"), url("vignette_top_small.png"),url("img/pic6.JPG");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
 	font-family: "Roboto";
 	background-blend-mode: multiply;
-	color: white;
+  	filter: grayscale(1);	    
 }
 
 a:hover{

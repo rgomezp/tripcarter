@@ -49,20 +49,33 @@ a:hover{
 
 /* Facebook */
 .fa-facebook {
-    background: #3B5998;
     color: white;
 }
 
 /* Twitter */
 .fa-twitter {
-    background: #55ACEE;
     color: white;
 }
 
 /* Soundcloud */
 .fa-soundcloud{
-	background: orange;
 	color: white;
 }
 
+/* Snapchat */
+.fa-snapchat-ghost{
+	color: white;
+	
+}
 
+.fa-instagram{
+	color: white
+}
+
+.fa-spotify{
+	color: white;
+}
+
+.fa-music{
+	color: white;
+}

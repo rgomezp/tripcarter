@@ -6,18 +6,19 @@
 
 body{
 	background-color: grey;
-	background-image: url("img/vignette_bottom_small.png"), url("vignette_top_small.png"),url("img/pic6.JPG");
+	background-image: url("img/vignette_bottom_small.png"),url("img/pic6.JPG");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
 	font-family: "Aliens";
 	background-blend-mode: multiply;
-  	filter: grayscale(1);	    
 }
+
 
 a:hover{
     	text-decoration: none;
-	background-color: #00FFFF;
+	background-color: grey;
+	opacity: 0.5;
 }
 
 .jumbotronic{

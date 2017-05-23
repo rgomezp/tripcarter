@@ -21,6 +21,10 @@ a:hover{
 	opacity: 0.5;
 }
 
+.soc-media-box a{
+	padding: 40px;
+}
+
 .jumbotronic{
     position: absolute;
     top:0;

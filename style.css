@@ -1,0 +1,86 @@
+@font-face {
+    font-family: "Aliens";
+    src: url(aliens.ttf) format("truetype");
+}
+
+
+body{
+	background-color: grey;
+	background-image: url("img/vignette_bottom_small.png"),url("img/pic6.JPG");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	font-family: "Aliens";
+	background-blend-mode: multiply;
+}
+
+
+a:hover{
+    	text-decoration: none;
+	background-color: grey;
+	opacity: 0.5;
+}
+
+.soc-media-box a{
+	padding: 40px;
+}
+
+.jumbotronic{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-color: none;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    color: white;
+}
+
+/* Soundcloud */
+.fa-soundcloud{
+	color: white;
+}
+
+/* Snapchat */
+.fa-snapchat-ghost{
+	color: white;
+	
+}
+
+.fa-instagram{
+	color: white
+}
+
+.fa-spotify{
+	color: white;
+}
+
+.fa-music{
+	color: white;
+}

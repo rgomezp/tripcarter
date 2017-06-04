@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "Aliens";
+    src: url(../aliens.ttf) format("truetype");
+}
+
+
+body{
+	background-color: grey;
+	background-image: url("../img/vignette_bottom_small.png"), url("../vignette_top_small.png"),url("../img/pic6.JPG");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	font-family: "Roboto";
+	background-blend-mode: multiply;
+  	filter: grayscale(1);	   
+	color: white; 
+}
+
+a:hover{
+    	text-decoration: none;
+	background-color: #00FFFF;
+}
+
+.jumbotronic{
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    background-color: none;
+}
+
+table.center{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table{
+	background-color: black;
+	border-radius: 10px;
+	
+}
+
+td{
+	padding: 20px;
+}
+

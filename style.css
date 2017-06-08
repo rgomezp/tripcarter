@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Aliens";
-    src: url(aliens.ttf) format("truetype");
+    src: url(Alienscows-Regular.ttf) format("truetype");
 }
 
 
@@ -47,7 +47,8 @@ a:hover{
 
 /* Add a hover effect if you want */
 .fa:hover {
-    opacity: 0.7;
+	background: none;
+	color: blue;
 }
 
 /* Set a specific color for each brand */
@@ -55,30 +56,36 @@ a:hover{
 /* Facebook */
 .fa-facebook {
     color: white;
+    text-align: center;
 }
 
 /* Twitter */
 .fa-twitter {
     color: white;
+    text-align: center;
 }
 
 /* Soundcloud */
 .fa-soundcloud{
 	color: white;
+    	text-align: center;
 }
 
 /* Snapchat */
 .fa-snapchat-ghost{
 	color: white;
+    	text-align: center;
 	
 }
 
 .fa-instagram{
-	color: white
+	color: white;
+    	text-align: center;
 }
 
 .fa-spotify{
 	color: white;
+    	text-align: center;
 }
 
 .fa-music{

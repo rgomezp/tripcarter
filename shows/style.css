@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Aliens";
-    src: url(../aliens.ttf) format("truetype");
+    src: url(../Alienscows-Regular.ttf) format("truetype");
 }
 
 
@@ -10,7 +10,7 @@ body{
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
-	font-family: "Roboto";
+	font-family: "Aliens";
 	background-blend-mode: multiply;
   	filter: grayscale(1);	   
 	color: white; 
@@ -45,6 +45,7 @@ table{
 }
 
 td{
+	font-size: 35px;
 	padding: 20px;
 }
 

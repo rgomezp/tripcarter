@@ -1,10 +1,15 @@
+@font-face {
+    font-family: "Aliens";
+    src: url(../Alienscows-Regular.ttf) format("truetype");
+}
+
 body{
 	background-color: grey;
 	background-image: url("../img/vignette_bottom_small.png"), url("../vignette_top_small.png"),url("../img/pic6.JPG");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center center;
-	font-family: "Roboto";
+	font-family: "Aliens";
 	background-blend-mode: multiply;
   	filter: grayscale(1);	   
 	color: white; 

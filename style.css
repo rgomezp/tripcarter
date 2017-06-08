@@ -1,6 +1,8 @@
 @font-face {
     font-family: "Aliens";
     src: url(Alienscows-Regular.ttf) format("truetype");
+    text-rendering: optimizeLegibility; 
+
 }
 
 

@@ -1,6 +1,10 @@
 @font-face {
-    font-family: "Aliens";
-    src: url(../Alienscows-Regular.ttf) format("truetype");
+    font-family: 'Aliens';
+    src: url('../alienscows-regular-webfont.woff2') format('woff2'),
+         url('../alienscows-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 

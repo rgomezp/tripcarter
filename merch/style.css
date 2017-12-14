@@ -11,8 +11,9 @@ body{
 	background-position: center center;
 	font-family: "Aliens";
 	background-blend-mode: multiply;
-  	filter: grayscale(1);	   
-	color: white; 
+  	filter: grayscale(1);
+	color: white;
+  will-change: opacity;
 }
 
 a:hover{

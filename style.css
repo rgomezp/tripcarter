@@ -15,13 +15,14 @@ body{
 	background-position: center center;
 	font-family: "Aliens";
 	background-blend-mode: multiply;
+  will-change: opacity;
 }
 
 
 a:hover{
     	text-decoration: none;
-	background-color: grey;
-	opacity: 0.5;
+	    background-color: grey;
+	    opacity: 0.5;
 }
 
 .soc-media-box a{
@@ -49,6 +50,7 @@ a:hover{
 }
 
 /* Add a hover effect if you want */
+
 .fa:hover {
 	background: none;
 	color: blue;
@@ -78,7 +80,7 @@ a:hover{
 .fa-snapchat-ghost{
 	color: white;
     	text-align: center;
-	
+
 }
 
 .fa-instagram{
